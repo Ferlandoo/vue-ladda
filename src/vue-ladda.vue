@@ -64,5 +64,5 @@ export default {
 
 <style lang="scss">
 // TODO: make themed a option?
-@import '~ladda/css/ladda-themed.scss';
+@use '~ladda/css/ladda-themed.scss';
 </style>
